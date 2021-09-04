@@ -55,7 +55,7 @@ class Work extends Component {
 
                             <div class="grid-item webdev">
                                 <div class="gallery-image">
-                                    <img src="./img/portfolio/port2.png" alt="" />
+                                    <img src="./img/portfolio/port5.jpg" alt="" />
                                     <div class="img-overlay">
                                         <div class="plus"></div>
                                         <div class="img-description">
@@ -68,7 +68,7 @@ class Work extends Component {
 
                             <div class="grid-item webdev">
                                 <div class="gallery-image">
-                                    <img src="./img/portfolio/port2.png" alt="" />
+                                    <img src="./img/portfolio/port6.jpg" alt="" />
                                     <div class="img-overlay">
                                         <div class="plus"></div>
                                         <div class="img-description">

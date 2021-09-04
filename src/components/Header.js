@@ -64,13 +64,11 @@ class Header extends Component {
                 <div class="header-content">
                     <div class="container grid-2">
                         <div class="column-1">
-                            <h1 class="header-title">John Dorsey</h1>
+                            <h1 class="header-title">Hau Nguyen</h1>
                             <p class="text">
-                                Hello, I'm Miley Brewer, web design and developer. Lorem ipsum
-                                dolor sit amet consectetur adipisicing elit. Totam magni sit
-                                hic!
+                                Hello, I'm Hau Nguyen, web developer. 
                             </p>
-                            <a href="#" class="btn">Download CV</a>
+                            <a href="#" class="btn">Contact Now</a>
                         </div>
 
                         <div class="column-2 image">
@@ -79,7 +77,7 @@ class Header extends Component {
                                 class="points points2"
                                 alt=""
                             />
-                            <img src="./img/person.png" class="img-element z-index" alt="" />
+                            <img src="./img/person.jpg" class="img-element z-index radiusx" alt="" />
                         </div>
                     </div>
                 </div>

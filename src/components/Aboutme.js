@@ -43,7 +43,7 @@ class Aboutme extends Component {
 
                         <div class="column-2 image">
                             <img src="./img/shapes/points4.png" class="points" alt="" />
-                            <img src="./img/about.png" class="z-index" alt="" />
+                            <img src="./img/about.jpg" class="z-index radiusx" alt="" />
                         </div>
                     </div>
                 </div>
